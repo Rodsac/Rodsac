@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MSN (School Proyect)<br>🌱 I’m currently learning Python / CSS / HTML / Javascript<br>📫 How to reach me? Discord: rodsac / rodsac.ubu@gmail.com
+🔭 I’m currently working on TGS (School Proyect)<br>🌱 I’m currently learning Python / CSS / HTML / Javascript<br>📫 How to reach me? Discord: rodsac / rodsac.ubu@gmail.com
 
 
 ## 🌐 Socials:
