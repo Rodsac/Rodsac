@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I worked recently in TGS (School Proyect)<br>🌱 I’m currently learning Python / CSS / HTML / Javascript<br>📫 How to reach me? Discord: rodsac / rodsac.ubu@gmail.com
+🔭 I worked recently in TGS (School Proyect)(https://github.com/Dorikyh/msn)<br>🌱 I’m currently learning Python / CSS / HTML / Javascript<br>📫 How to reach me? Discord: rodsac / rodsac.ubu@gmail.com
 
 
 ## 🌐 Socials:
